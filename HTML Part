@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article Louis Vuitton</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="sec1">
+
+            <header>
+                <nav>
+                    <div class="left">
+                            <div class="menu-bar">
+                                <img src="/Assets/menu.png" alt="" height="18px">
+                                <a href="">Menu</a>
+                            </div>
+
+                            <div class="recherche-bar">
+                                <img src="/Assets/search.png" alt="" height="18px">
+                                <a href="">Rechercher</a>
+                            </div>
+
+                    </div>
+
+                            <div class="logo">
+                                <img src="/Assets/Logo.png" alt="" height="25px">
+                            </div>
+
+                    <div class="right">
+                        <a href="#">Wishlist</a>
+                        <a href="#">My LV</a>
+                        <a href="#">
+                            <img src="/Assets/panier.png" alt="" height="20px">
+                        </a>
+                        
+                    </div>
+                </nav>
+            </header>
+
+            <div class="container1">
+                <div class="left-container1">
+        
+                </div>
+                <div class="right-container1">
+                    <div class="description-article">
+                        <div class="haut">
+                            <div class="titre">
+                                <p>1A9GTT</p>
+                                <h2>DOUDOUNE THERMORÉACTIVE LOUIS VUITTON 2054</h2>
+                            </div>
+                                <div class="caracteristiques">
+                                    <div class="box1">
+                                        <p class="gras">Couleurs</p>
+                                        <div class="box1-color">
+                                            <p>Anthracite</p>
+                                            <img src="/Assets/anthracite.png" alt="" height="50px">
+                                        </div>
+                                        
+                                    </div>
+                                    <div class="box2">
+                                        <p class="gras">Couleurs</p>
+                                        <p class="">50</p>
+                                    </div>
+
+                                    <div class="tailles">
+                                        <img src="/Assets/regle.png" alt="" height="18px">
+                                        <p>Correspondances de taille</p>
+                                    </div>
+
+                                </div> 
+                        </div>
+                        <div class="bas">
+                                <div class="price">
+                                    <p class="prix">4 000,00€</p>
+                                    <a href="" class="indispo1">
+                                        <p>Produit Indisponible</p>
+                                    </a>
+                                    <a href="" class="local">
+                                        <img src="/Assets/icon localisation.png" alt="" height="17px">
+                                        <p>Trouver ce produit en magasin</p>
+                                    </a>
+                                    <p class="indispo2">Produit indisponible</p>
+
+                                    <div class="details">
+                                        <img src="/Assets/voir plus7.png" alt="" height="13px">
+                                        <p>Details</p>
+                                    </div>
+                                    
+                                </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        
+        
+    </section>
+
+    <section class="sec2">
+
+
+    </section>
+
+</body>
+</html>
